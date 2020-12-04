@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23288" started-at="2017-07-03T18:53:59Z" finished-at="2017-07-03T18:54:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23288" started-at="2017-07-03T18:53:59Z" finished-at="2017-07-03T18:54:23Z">
+      <class name="step_definitions.Searchkeywordaction">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:step_definitions.Searchkeywordaction@55536d9e]" name="setUp" is-config="true" duration-ms="10170" started-at="2017-07-04T00:23:59Z" finished-at="2017-07-04T00:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Searchkeywordingoogle()[pri:0, instance:step_definitions.Searchkeywordaction@55536d9e]" name="Searchkeywordingoogle" duration-ms="12511" started-at="2017-07-04T00:24:09Z" finished-at="2017-07-04T00:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchkeywordingoogle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:step_definitions.Searchkeywordaction@55536d9e]" name="teardown" is-config="true" duration-ms="554" started-at="2017-07-04T00:24:22Z" finished-at="2017-07-04T00:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- step_definitions.Searchkeywordaction -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
